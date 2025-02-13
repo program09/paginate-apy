@@ -39,6 +39,10 @@ The `Paginator` class provides a dynamic and reusable pagination component that 
 
 Include the `Paginator` class in your project:
 
+## styles
+we use bootstrap 5
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
 ```javascript
 // Include the Paginator class in your project
 import Paginator from './script.js';
